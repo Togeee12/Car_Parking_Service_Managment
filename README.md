@@ -4,7 +4,7 @@ Welcome! This respository contains a "Parking Management" program.
 
 ## How it works?
 
-Program is based on command prompt interactions with user. It provides a
+Program is based on command prompt interactions with user. It provides a simple menu. 
 
 ## Contributing
 
